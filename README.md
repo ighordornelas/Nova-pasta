@@ -8,7 +8,7 @@ Projeto construido no evento Next Level Week da Rocketseat.
 
 ## Tecnologias
 
-- HTLM
+- HTML
 - CSS
 - Git e Github
 
